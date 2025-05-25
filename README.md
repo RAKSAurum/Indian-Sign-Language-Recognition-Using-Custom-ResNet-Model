@@ -39,8 +39,8 @@ The dataset used is the [Indian Sign Language Dataset](https://www.kaggle.com/da
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/RAKSAurum/Indian-Sign-Language-Recognition-Using-Custom-ResNet-Model.git
+   cd Indian-Sign-Language-Recognition-Using-Custom-ResNet-Model
    ```
 
 2. **Install required packages:**
